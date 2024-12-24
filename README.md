@@ -1,1 +1,1 @@
-example for gg20 protocol for mpc.
+an example of gg20 protocol for mpc.
